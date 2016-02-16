@@ -1,3 +1,3 @@
 # hello-world
 
-Richard Boyd Barrett
+Richard Boyd Barrett & Stephen Donnelly
